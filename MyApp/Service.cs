@@ -82,6 +82,6 @@ namespace MyApp
         }
 
         public static IEnumerable<UserModelView> ToUserModelViews(this IEnumerable<User> users) => from user in users
-                                                                                                    select new UserModelView(user);
+                                                                                                    select new UserModelView(user); //Получение модели с полным возрастом пользователя 
     }
 }
