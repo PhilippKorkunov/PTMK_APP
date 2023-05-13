@@ -23,3 +23,12 @@ D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\obj\Debug\net7.0\MyAppBusinessLayer.cspr
 D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\obj\Debug\net7.0\MyAppBusinessLayer.dll
 D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\obj\Debug\net7.0\refint\MyAppBusinessLayer.dll
 D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\obj\Debug\net7.0\MyAppBusinessLayer.pdb
+D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\bin\Debug\net7.0\MyAppBusinessLayer.deps.json
+D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\bin\Debug\net7.0\MyAppBusinessLayer.runtimeconfig.json
+D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\bin\Debug\net7.0\MyAppBusinessLayer.dll
+D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\bin\Debug\net7.0\MyAppBusinessLayer.pdb
+D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\bin\Debug\net7.0\MyAppDbLayer.dll
+D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\bin\Debug\net7.0\MyAppDbLayer.pdb
+D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\obj\Debug\net7.0\MyAppBusinessLayer.csproj.CopyComplete
+D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\obj\Debug\net7.0\MyAppBusinessLayer.genruntimeconfig.cache
+D:\MyAppDir\PTMK_APP\MyAppBusinessLayer\obj\Debug\net7.0\ref\MyAppBusinessLayer.dll

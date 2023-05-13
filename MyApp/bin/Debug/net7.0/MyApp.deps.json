@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v7.0": {
       "MyApp/1.0.0": {
         "dependencies": {
+          "EFCore.BulkExtensions": "7.1.0",
+          "Microsoft.EntityFrameworkCore": "7.0.5",
           "MyAppBusinessLayer": "1.0.0",
           "MyAppDbLayer": "1.0.0"
         },
