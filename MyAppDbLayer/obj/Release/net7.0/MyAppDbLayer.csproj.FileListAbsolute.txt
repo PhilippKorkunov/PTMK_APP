@@ -1,0 +1,12 @@
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\bin\Release\net7.0\MyAppDbLayer.deps.json
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\bin\Release\net7.0\MyAppDbLayer.dll
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\bin\Release\net7.0\MyAppDbLayer.pdb
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\obj\Release\net7.0\MyAppDbLayer.csproj.AssemblyReference.cache
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\obj\Release\net7.0\MyAppDbLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\obj\Release\net7.0\MyAppDbLayer.AssemblyInfoInputs.cache
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\obj\Release\net7.0\MyAppDbLayer.AssemblyInfo.cs
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\obj\Release\net7.0\MyAppDbLayer.csproj.CoreCompileInputs.cache
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\obj\Release\net7.0\MyAppDbLayer.dll
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\obj\Release\net7.0\refint\MyAppDbLayer.dll
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\obj\Release\net7.0\MyAppDbLayer.pdb
+D:\MyAppDir\PTMK_APP\MyAppDbLayer\obj\Release\net7.0\ref\MyAppDbLayer.dll
